@@ -1,0 +1,24 @@
+txt2asana.py:
+  * First public commit
+
+deps.sh 0.3
+  * Add build-deps
+  * add pip freeze option
+  * only do symlinks trick if they don't exists already
+
+watchrunner.sh 0.1
+ * First public commit
+
+profiler.py 0.1
+  * First public commit
+
+deps.sh 0.2
+ * Fix conditions
+ * Add libjpeg symlinks trick for amd64
+ * First public commit
+
+printcProfile.py 0.1
+ * First public commit
+
+build_db_tree.py 0.1
+ * First public commit
